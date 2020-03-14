@@ -34,7 +34,7 @@
         android:layout_alignLeft="@+id/textviewGeen"
         android:layout_above="@+id/textviewGeen"
         android:textSize="30sp"
-        android:text="Green"
+        android:text="Red"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
     <TextView
@@ -59,7 +59,7 @@
         android:layout_height="wrap_content"/>
     <TextView
         android:textColor="#ffff"
-        android:background="#9C27B0"
+        android:background="#B027A5"
         android:id="@+id/textviewPink"
         android:layout_alignLeft="@+id/textviewGray"
         android:layout_below="@+id/textviewGray"
